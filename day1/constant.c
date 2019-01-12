@@ -1,7 +1,6 @@
 //check all the block of code by removing comment  
 
 #include<stdio.h>
-#include<conio.h>
 #include<stdlib.h>
 int main(){
 	//integer constant 
